@@ -1,0 +1,55 @@
+{
+  "APP": {
+    "TITLE": "titre de l'application"
+
+  },
+
+  "FORMATTED": {
+    "HELLO_MESSAGE": "Bonjour, {username}!"
+
+  },
+
+  "WELCOME": "Bienvenue",
+  "SING_IN_TO_CONTINUE": "Vous possédez un restaurant, un hôtel ou un café, et vous souhaitez gérer vos commandes de manière rapide et efficace ? De plus, vous désirez attirer davantage de clients en améliorant votre service ? Vous êtes au bon endroit ! Inscrivez-vous dès maintenant pour personnaliser votre menu et profitez d'augmenter votre chiffre d'affaires.",
+  "USERNAME": "Nom d'utilisateur",
+  "PASSWORD": "Mot de passe",
+  "FORGOT_PASSWORD": "Mot de passe oublié",
+  "LOGIN": "Se connecter",
+  "CONNECT_WITH_GOOGLE": "Connectez-vous avec Google",
+  "DO_NOT_HAVE_AN_ACCOUNT_YET": "Pas encore de compte",
+  "USERNAME_REQUIRED": "Nom d'utilisateur est nécessaire!",
+  "PASSWORD_REQUIRED": "Mot de passe est nécessaire!",
+  "EMAIL_REQUIRED": "Email est nécessaire!",
+  "PASSWORD_MIN_CARACTER": "Introduire au moins de 6 caractères",
+  "NOT_REGISTRED_YET": "Vous n'êtes pas encore inscrit!",
+  "ALREADY_CONNECTED": " Vous êtes déjà connecté!",
+  "ACCESS_TO_COSTUMER_SPACE": "Accédez à votre espace client !",
+  "SINGUP": "S'inscrire",
+  "REGISTRATION_SUCCESSFUL": "Votre inscription est réussie !!",
+  "EMAIL_VALID": "L'adresse email doit être valide",
+  "ALREADY_HAVE_ACCOUNT": "Vous avez déjà un compte ?",
+  "USERNAME_MIN_CARACTER": "Introduire au moins 3 caractères",
+  "USERNAME_MAX_CARACTER": "Maximum 20 caractères",
+  "SIGNUP_FAILED": "Échec de l'inscription",
+
+  "TITLE": "Bonjour de NgStack/translate!",
+  "MENU": "Menu",
+  "LIST_HEADER": "Catégories",
+  "SEARCH_BY_TITLE": "Rechercher",
+  "MENU_TAB": "Menu",
+  "CART_TAB": "Panier",
+  "STATUS_TAB": "Statut",
+  "INCOME_TAB": "Revenus",
+  "Link_TAB": "Liens",
+  "ALL": "Tous",
+  "ADD": "Ajouter",
+  "EmtyCart": "Votre panier est vide",
+  "NOORDERYET": "vous n'avez pas encore commandé",
+  "STATUSCOMMAND": "Ici, vous trouverez le statut de vos commandes.",
+  "DESCRIPTION": "Description",
+  "ADDTOCART": "Ajouter au panier",
+  "PAY_AT_RECEPTION": "Payer à la réception : ",
+  "PAY_BY_CART": "Payer par carte: ",
+  "ITEMS_IN_CART": "éléments dans votre panier",
+  "LIST_OF": "List de "
+}

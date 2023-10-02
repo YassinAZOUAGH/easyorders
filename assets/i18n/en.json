@@ -1,0 +1,61 @@
+{
+  "APP": {
+    "TITLE": "title app"
+  },
+
+  "FORMATTED": {
+    "HELLO_MESSAGE": "Hello, {username}!"
+  },
+
+  "WELCOME": "Welcome",
+  "SING_IN_TO_CONTINUE": "Do you own a restaurant, hotel, or café, and do you want to manage your orders quickly and efficiently? Additionally, do you want to attract more customers by enhancing your service? You're in the right place! Sign up now to customize your menu and take advantage of increasing your revenue.",
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "FORGOT_PASSWORD": "Forgot Password",
+  "LOGIN": "Login",
+  "CONNECT_WITH_GOOGLE": "Connect with Google",
+  "DO_NOT_HAVE_AN_ACCOUNT_YET": "Do not have an account yet",
+  "USERNAME_REQUIRED": "Username is required!",
+  "EMAIL_REQUIRED": "Email is required!",
+  "PASSWORD_REQUIRED": "Password is required!",
+  "PASSWORD_MIN_CARACTER": "Password must be at least 6 characters",
+  "NOT_REGISTRED_YET": "You are not registered yet!",
+  "ALREADY_CONNECTED": "You are already connected!",
+  "ACCESS_TO_COSTUMER_SPACE": "Access your customer space!",
+  "SINGUP": "Singup",
+  "REGISTRATION_SUCCESSFUL": "Your registration is successful!",
+  "EMAIL_VALID": "Email must be a valid email address",
+  "ALREADY_HAVE_ACCOUNT": "You already have an account ?",
+  "USERNAME_MIN_CARACTER": "Username must be at least 3 characters",
+  "USERNAME_MAX_CARACTER": "Username must be at most 20 characters",
+  "SIGNUP_FAILED": "Signup failed",
+
+
+
+
+
+
+
+
+  "TITLE": "Hello from NgStack/translate!",
+  "MENU": "Menu",
+  "LIST_HEADER": "Categories",
+  "SEARCH_BY_TITLE": "Search",
+  "MENU_TAB": "Menu",
+  "CART_TAB": "Cart",
+  "STATUS_TAB": "Status",
+  "INCOME_TAB": "Income",
+  "Link_TAB": "Links",
+  "ALL": "All",
+  "ADD": "Add",
+  "EmtyCart": "your cart is empty",
+  "NOORDERYET": "You haven't ordered yet",
+  "STATUSCOMMAND": "Here you will find the status of your orders.",
+  "DESCRIPTION": "Description",
+  "ADDTOCART": "Add to cart",
+  "PAY_AT_RECEPTION": "Pay at reception : ",
+  "PAY_BY_CART": "Pay by card : ",
+  "ITEMS_IN_CART": "items in your cart",
+  "LIST_OF": "List of "
+
+}
